@@ -1,5 +1,5 @@
 - 👋 Hi, I’m fengqi.cui(https://qicita.github.io/)
-- 👀 I’m interested in Affective Computing
+
 
 
 <!---
